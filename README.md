@@ -10,9 +10,6 @@
   </a>
 </p>
 
--  Junior Communication and Computer Engineering Student . 
-
-
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/shorouk-ahmed-694176265/" target="_blank">
