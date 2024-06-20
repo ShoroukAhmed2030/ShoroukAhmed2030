@@ -10,8 +10,8 @@
   </a>
 </p>
 
-- 🏢 I'm Shorouk Ahmed, currently in my second year of studying Communication and Computer Engineering. 
-- 🤓 As a CCE student, I am constantly learning and exploring new technologies to enhance my skills.
+-  Junior Communication and Computer Engineering Student . 
+
 
 ### Connect with Me :
 
