@@ -16,6 +16,7 @@
 
 ### 🛠 &nbsp; Skills 😶
 ![Verilog](https://img.shields.io/badge/-Verilog-000080?style=flat)&nbsp;
+![TCL](https://img.shields.io/badge/-TCL-000080?style=flat)
 ![VHDL](https://img.shields.io/badge/-VHDL-008080?style=flat)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
