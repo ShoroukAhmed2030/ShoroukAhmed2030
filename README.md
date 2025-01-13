@@ -1,10 +1,10 @@
 <h3 align="center">
   Salam...This is Shorouk Ahmed's GitHub profile!
- <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"--->
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!p align="center">
+<!--p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learn%20new%20things%20😶&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20">
   </a>
